@@ -67,7 +67,7 @@ int main()
 
             yearTotInterest = yearTotInterest + intAmt; //Month end interest calculation
 
-            totalAm = totalAm + monDeposit + intAmt; // month end total calculation
+            totalAm = totalAm + monDeposit + intAmt; // Month end total calculation
 
         }
 
